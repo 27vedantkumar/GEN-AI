@@ -1,0 +1,27 @@
+# Python virtual environments
+myenv/
+myenv312/
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment variables (secrets)
+.env
+api.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
